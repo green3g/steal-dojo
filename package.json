@@ -1,0 +1,11 @@
+{
+  "name": "steal-dojo",
+  "version": "1.0.0",
+  "description": "a simple dojo loader for stealjs",
+  "main": "steal-dojo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
